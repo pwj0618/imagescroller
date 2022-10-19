@@ -1,0 +1,39 @@
+
+#r1{
+    width:200px;
+    height:200px;
+    background:blue;
+	position: fixed;
+}
+#r2{
+    width:200px;
+    height:200px;
+    background:red;
+}
+#r3{
+    width:200px;
+    height:200px;
+    background:green;
+}
+
+button{
+	width:50px;
+    height:20px;
+    background:red;
+}
+body{
+	min-height:300vh;
+	
+}
+
+img {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    bottom: 0;
+    right: 0;
+}
+#myButton {
+    width: 300px;
+    height: 100px;
+}
